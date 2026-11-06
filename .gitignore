@@ -1,1 +1,5 @@
 unoq_info
+unoq_info
+logs/
+__pycache__/
+*.pyc
